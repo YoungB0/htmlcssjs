@@ -12,7 +12,6 @@
 * asdf
   * asdf
   * asdfasdf
-  * ~~asdf~~
 
 ## 중간제목
 
