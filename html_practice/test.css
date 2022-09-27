@@ -1,0 +1,10 @@
+body {
+    background-image: url("paper.gif");
+}
+body > p {
+    color: greenyellow;
+}
+
+.w3-right {
+    background-color: darksalmon;
+}
